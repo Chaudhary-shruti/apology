@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    color:ghostwhite;
+    font-size: 20;
+}
+#head{
+    color: ghostwhite;
+}
+#btn{
+    color: red;
+}
+#msg{
+    color: black;
+}
